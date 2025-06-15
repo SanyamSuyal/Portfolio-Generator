@@ -45,6 +45,26 @@ A modern, responsive portfolio website builder that helps you create a stunning 
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
+## 🚀 Deployment
+
+To deploy this project to Vercel:
+
+1. Push your code to GitHub:
+   ```bash
+   git add .
+   git commit -m "Update for Vercel deployment"
+   git push origin main
+   ```
+
+2. Go to [Vercel Dashboard](https://vercel.com)
+3. Click "Import Project"
+4. Select your GitHub repository
+5. Click "Deploy"
+
+Vercel will automatically detect this is a Next.js project and handle the deployment.
+
+**Note:** The project is configured with the App Router (Next.js 14+). Make sure your Vercel project settings match the Next.js version in package.json.
+
 ## 📊 Analytics
 
 This project uses [Vercel Analytics](https://vercel.com/analytics) to track page views and other metrics. The analytics are automatically collected when deployed on Vercel.
