@@ -45,6 +45,15 @@ A modern, responsive portfolio website builder that helps you create a stunning 
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
+## 📊 Analytics
+
+This project uses [Vercel Analytics](https://vercel.com/analytics) to track page views and other metrics. The analytics are automatically collected when deployed on Vercel.
+
+To view your analytics:
+1. Go to your Vercel dashboard
+2. Select your project
+3. Click on the "Analytics" tab
+
 ## 🛠️ Built With
 
 - [Next.js](https://nextjs.org/) - The React Framework
@@ -52,6 +61,7 @@ A modern, responsive portfolio website builder that helps you create a stunning 
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components
 - [Lucide Icons](https://lucide.dev/) - Beautiful & consistent icon toolkit
+- [Vercel Analytics](https://vercel.com/analytics) - Real-time insights about your visitors
 
 ## 📄 License
 
